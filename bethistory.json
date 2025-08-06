@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "User": "Gustavo",
+        "Match": "Inter Miami x Al Ahli",
+        "Date": "14-06-2025",
+        "Market": "1x2",
+        "Odds": 2.12,
+        "Stake": 100.0,
+        "Result": "Won",
+        "Balance": 3212.0
+    }
+]
